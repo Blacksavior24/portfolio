@@ -14,7 +14,7 @@ function App() {
           className="App-link"
           href="https://www.linkedin.com/in/emerson-villalta-1b09a01aa/"
         >
-          Link de Linkedin ...
+          Link Linkedin ...
         </a>
       </header>
     </div>
